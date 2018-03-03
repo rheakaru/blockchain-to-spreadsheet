@@ -8,7 +8,7 @@ for (var i = 0; i < elements.length; i++) {
 
         if (node.nodeType === 3) {
             var text = node.nodeValue;
-            var replacedText = text.replace(/blockchain/gi, 'multiple copies of a giant excel spreadsheet');
+            var replacedText = text.replace(/Neel Yerneni/gi, 'Cool Kid Neel Yer-A-Wizard-Harry-Neni');
 
             if (replacedText !== text) {
                 element.replaceChild(document.createTextNode(replacedText), node);
