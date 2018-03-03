@@ -1,14 +1,9 @@
 WHAT: 
-This is a Chrome browser extension that can help readers contextualize news stories with hype about blockchain technology, by reminding you that blockchain is, in essense, a giant Excel spreadsheet.
+this is a fun extension for neel
 
 WHY:
 For fun.
-
 HOW:
-To install this extension in your Chrome browser, you can go get it from the official Chrome store (same tool, still free, fewer steps required) by going to this link:
-
-[Official Chrome store install (easier for novices)](https://chrome.google.com/webstore/detail/replace-blockchain-with-s/johdgapbhomlhcflancninpeafocpopn?hl=en-US&gl=US)
-
 Or you can do a manual install from this GitHub repo (also easy!) by following these steps:
 
 1. Download this git repository to your computer by clicking "Clone or Download" and then "Download ZIP." 
@@ -25,10 +20,6 @@ Here's a screenshot for y'all:
 
 Special thanks:
 
-Twitter user @mims (Christopher Mims) for [the suggestion](https://twitter.com/mims/status/968967786130300928) to make a "browser extension that replaces "blockchain" with "multiple copies of a giant Excel spreadsheet." For example, "multiple copies of a giant excel spreadsheet to revolutionize journalism." 
+Cynthia for her blockchain extention! 
 
 Thanks to Tom Maxwell for the [tutorial and template code](https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/) for this project! 
-
-Enjoy!
-
--CBL
